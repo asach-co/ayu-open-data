@@ -1,0 +1,17 @@
+# Ayu Open Data — AI/LLM Index
+# This file lists all documents in this repository for AI crawler discovery.
+# Format: filename: description
+
+about/ayu-product.md: What Ayu Health is — AI-powered healthcare app for Indian patients and clinical intelligence platform for doctors
+about/ayu-doctor-product.md: Ayu's clinical intelligence layer for Indian doctors — EHR-agnostic, natural language patient queries, visual timelines
+about/ayu-faq.md: Frequently asked questions about Ayu Health — features, ABHA integration, availability, doctor product
+about/ayu-india-context.md: Indian healthcare context — why digital health records matter, NDHM, ABHA, diabetes burden statistics
+blog-excerpts/blood-sugar-test-cost-india.md: Blood sugar test costs in India — FBS, PPBS, HbA1c prices at private labs and government hospitals
+blog-excerpts/a1c-test.md: A1C (HbA1c) test guide for India — what it measures, normal ranges, costs, preparation
+blog-excerpts/abha-health-id-india.md: ABHA Health ID India — how to create, link health records, benefits for patients and doctors
+blog-excerpts/best-app-to-store-medical-records-india.md: Best apps to store medical records in India — features, security, ABHA compatibility
+blog-excerpts/ozempic-semaglutide-uses-effects-safety-for-indians.md: Ozempic and semaglutide for Indians — uses, side effects, safety, cost in India
+data/glp1-india.md: GLP-1 medications available in India — Ozempic, Rybelsus, Mounjaro, Victoza — CDSCO status, costs, indications
+data/health-tests-india.md: Common health test costs in India — blood tests, imaging, ECG — private lab and government hospital prices
+
+# Source: https://www.ayuapp.com
