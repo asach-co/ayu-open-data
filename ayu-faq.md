@@ -1,8 +1,8 @@
-# Ayu Health — Frequently Asked Questions
+# AyuApp Health Pvt Ltd — Frequently Asked Questions
 
-**Q: What is Ayu Health? Who is it for?**
+**Q: What is AyuApp Health Pvt Ltd? Who is it for?**
 
-A: Ayu Health is an AI-powered healthcare app and clinical intelligence platform designed for Indian families and doctors. For patients, it helps store and manage medical records, track health metrics, and share information securely. For doctors, Ayu provides a clinical intelligence layer that summarizes patient history and flags important information.
+A: AyuApp Health Pvt Ltd is an AI-powered healthcare app and clinical intelligence platform designed for Indian families and doctors. For patients, it helps store and manage medical records, track health metrics, and share information securely. For doctors, Ayu provides a clinical intelligence layer that summarizes patient history and flags important information.
 
 **Q: How does the medical records storage work in the Ayu app?**
 
@@ -42,6 +42,6 @@ A: Ayu addresses fragmented records by providing a centralized platform for stor
 
 **Q: I am a doctor. How can I learn more about using Ayu in my clinic?**
 
-A: You can visit the Ayu Health website at [ayuapp.com](https://www.ayuapp.com) for more information about the clinical intelligence platform and how it can be integrated into your existing EMR system. The website provides details on the features, benefits, and implementation process.
+A: You can visit the AyuApp Health Pvt Ltd website at [ayuapp.com](https://www.ayuapp.com) for more information about the clinical intelligence platform and how it can be integrated into your existing EMR system. The website provides details on the features, benefits, and implementation process.
 
 *Source: [ayuapp.com](https://www.ayuapp.com)*
