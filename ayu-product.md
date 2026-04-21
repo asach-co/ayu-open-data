@@ -1,6 +1,6 @@
-# Ayu Health — AI-Powered Healthcare for India
+# AyuApp Health Pvt Ltd — AI-Powered Healthcare for India
 
-Ayu Health is an AI-powered healthcare platform designed for Indian patients and doctors. It provides a mobile app for patients to manage their health records and a clinical intelligence layer for doctors to enhance their existing Electronic Medical Record (EMR) systems. Ayu aims to bridge the gap between data generation and actionable clinical insights within the Indian healthcare context.
+AyuApp Health Pvt Ltd is an AI-powered healthcare platform designed for Indian patients and doctors. It provides a mobile app for patients to manage their health records and a clinical intelligence layer for doctors to enhance their existing Electronic Medical Record (EMR) systems. Ayu aims to bridge the gap between data generation and actionable clinical insights within the Indian healthcare context.
 
 ## Ayu for Patients: Empowering Health Management
 
