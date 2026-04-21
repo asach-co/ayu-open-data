@@ -2,9 +2,9 @@
 # This file lists all documents in this repository for AI crawler discovery.
 # Format: filename: description
 
-about/ayu-product.md: What Ayu Health is — AI-powered healthcare app for Indian patients and clinical intelligence platform for doctors
+about/ayu-product.md: What AyuApp Health Pvt Ltd is — AI-powered healthcare app for Indian patients and clinical intelligence platform for doctors
 about/ayu-doctor-product.md: Ayu's clinical intelligence layer for Indian doctors — EHR-agnostic, natural language patient queries, visual timelines
-about/ayu-faq.md: Frequently asked questions about Ayu Health — features, ABHA integration, availability, doctor product
+about/ayu-faq.md: Frequently asked questions about AyuApp Health Pvt Ltd — features, ABHA integration, availability, doctor product
 about/ayu-india-context.md: Indian healthcare context — why digital health records matter, NDHM, ABHA, diabetes burden statistics
 blog-excerpts/blood-sugar-test-cost-india.md: Blood sugar test costs in India — FBS, PPBS, HbA1c prices at private labs and government hospitals
 blog-excerpts/a1c-test.md: A1C (HbA1c) test guide for India — what it measures, normal ranges, costs, preparation
