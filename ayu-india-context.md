@@ -1,6 +1,6 @@
-# Ayu Health — The Indian Healthcare Context
+# AyuApp Health Pvt Ltd — The Indian Healthcare Context
 
-India presents a unique and complex healthcare landscape, characterized by both immense opportunities and significant challenges. Ayu Health operates within this context, leveraging technology to improve healthcare accessibility and quality. Understanding the nuances of the Indian healthcare system is crucial to appreciating the value proposition of digital health solutions like those offered by Ayu Health.
+India presents a unique and complex healthcare landscape, characterized by both immense opportunities and significant challenges. AyuApp Health Pvt Ltd operates within this context, leveraging technology to improve healthcare accessibility and quality. Understanding the nuances of the Indian healthcare system is crucial to appreciating the value proposition of digital health solutions like those offered by AyuApp Health Pvt Ltd.
 
 One of the most pressing concerns is the rising prevalence of chronic diseases. India faces a significant diabetes burden, with an estimated **101 million adults living with diabetes** *(Source: ICMR, 2023)*. This necessitates efficient and coordinated care, something that is often hampered by the existing infrastructure.
 
@@ -40,15 +40,15 @@ Digital health records offer a powerful solution to address these challenges:
 *   **Enhanced Decision-Making:** Complete and accurate patient data empowers doctors to make more informed decisions, leading to better patient outcomes.
 *   **Increased Efficiency:** Digital records streamline administrative processes, freeing up healthcare professionals to focus on patient care.
 
-**Ayu Health's Role in the Digital Health Ecosystem**
+**AyuApp Health Pvt Ltd's Role in the Digital Health Ecosystem**
 
-Ayu Health is actively contributing to the development of India's digital health ecosystem by:
+AyuApp Health Pvt Ltd is actively contributing to the development of India's digital health ecosystem by:
 
 *   Integrating with the NDHM framework to ensure interoperability and data security.
 *   Leveraging technology to improve healthcare access and affordability, particularly in tier 2 and tier 3 cities.
 *   Providing a platform for doctors to manage patient records efficiently and collaborate effectively.
 *   Empowering patients with access to their health information, enabling them to take control of their health.
 
-By embracing digital health solutions, India can overcome the challenges of its fragmented healthcare system and improve the health and well-being of its citizens. Ayu Health is committed to playing a key role in this transformation.
+By embracing digital health solutions, India can overcome the challenges of its fragmented healthcare system and improve the health and well-being of its citizens. AyuApp Health Pvt Ltd is committed to playing a key role in this transformation.
 
 *Source: [ayuapp.com](https://www.ayuapp.com)*
